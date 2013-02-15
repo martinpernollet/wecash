@@ -1,0 +1,149 @@
+global:case=ignore
+global:Papeterie,
+
+// -------------
+// GABY
+// -------------
+
+category:gabriel/courses
+pattern:BEBE CASH
+pattern:NATALYS
+
+category:gabriel/creche
+value:-601.15
+
+// -------------
+// HOME
+// -------------
+
+category:home/food
+pattern:MCDONALDS
+pattern:MC DONALDS
+pattern:MAC DO
+pattern:FRANPRIX
+pattern:ALIMENTATION
+pattern:CARREFOUR
+pattern:BOUCHERIE
+pattern:CAVES
+pattern:TELEMARKET
+pattern:PICARD
+pattern:MONOPRIX
+pattern:SUBWAY
+
+category:home/energy
+pattern:ELECTRICITE
+pattern:GDF
+
+category:home/telecom
+pattern:FREE
+pattern:Bouygues Telecom
+
+
+category:home/bricolage
+pattern:BRICORAMA
+pattern:Papeterie
+
+
+category:home/santé
+pattern:PHAR
+pattern:PHCIE
+pattern:PHARMA
+pattern:CPAM
+
+category:home/assurances
+pattern:Filia-Maif
+
+category:home/vetements
+pattern:PRESSING
+pattern:Chaussland
+pattern:Jules
+pattern:Camille Albane
+pattern:Printemps
+pattern:Celio
+pattern:MARIONNAUD
+
+category:home/clopes
+pattern:LE NAJA
+pattern:LE FUMAILLON
+pattern:RELAY
+
+category:home/loyer
+pattern:FRANCOISE DE VILLEMANDY
+
+category:home/impôts
+pattern:TRESOR PUBLIC
+pattern:IMPOT
+
+category:home/salaire
+pattern:Nuxeo
+pattern:Pole Emploi
+
+category:home/transport
+pattern:SNCF
+pattern:RATP
+pattern:TAXIS-G7
+pattern:TAXIS BLEUS
+
+// -------------
+// FUN
+// -------------
+
+category:fun/entertainment
+pattern:FNAC
+pattern:Google
+
+category:fun/restos & bar
+pattern:La Manufacture
+pattern:Pho
+pattern:L'entracte
+pattern:Brasserie
+pattern:Rest.
+pattern:La Terrasse
+pattern:La Piscine
+pattern:Bonheur Du Jour
+pattern:L'embarcadere
+pattern:Les Negociants
+pattern:Pub Montmartre
+pattern:Le Franco Belge
+pattern:Cafe
+pattern:Violon Dingue
+
+// -------------
+// BANQUE
+// -------------
+
+category:banque/virements/recus
+pattern:VIR RECU
+pattern:VIREMENT RECU
+pattern:Virement En Votre Faveur
+
+category:banque/virements/emis
+pattern:VIR PERM
+pattern:VIR EUROPEEN EMIS
+pattern:Virement Emis
+
+category:banque/chèques
+pattern:CHEQUE
+pattern:Remise De Cheque
+
+category:banque/retraits
+pattern:DAB
+pattern:Retrait Au Distributeur
+
+category:banque/frais
+pattern:FRAIS
+pattern:OPTION TRANQUILLITE
+pattern:COTISATION JAZZ
+pattern:JAZZ DUO
+pattern:COMMISSION
+pattern:COTISATION ANNUELLE CARTE V
+pattern:NOMBRE JOUR DEBITEUR
+pattern:MINIMUM FORFAITAIRE NOMBRE JOURS DEBITEURS
+pattern:Operation Carte Hors Ue
+pattern:Commission D'intervention
+pattern:Compte Service Optimum
+pattern:Retrait Dab Autre Banque
+
+
+category:vacances
+ETATS-UNIS
